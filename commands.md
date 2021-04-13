@@ -16,4 +16,7 @@
             vue-cli-service serve
         </code>
     </li>
+    <li> 
+        Template reference - <br>add ref="name" and then refer using this.$refs.name
+    </li>
 </ul>
