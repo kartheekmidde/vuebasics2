@@ -19,4 +19,10 @@
     <li> 
         Template reference - <br>add ref="name" and then refer using this.$refs.name
     </li>
+    <li> 
+        Using one component in another - 
+        <br>1. Create the new component.
+        <br>2. Import the new component in parent component and declare in the exports.
+        <br>3. Use the new component in template of the parent component.
+    </li>
 </ul>
