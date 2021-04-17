@@ -40,5 +40,8 @@
     <li> 
         To pass templates, use <code>slots or named slots</code>. Dont use slots for simple data and we cant use self closing component template. To use named slots define a template with <code>v-slot:templName</code> and use slot with name property. We can pass default content as well.
     </li>
+    <li> 
+        To render templates outside the app, use <code>teleport</code> option.
+    </li>
     
 </ul>
